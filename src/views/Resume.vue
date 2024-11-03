@@ -3,24 +3,30 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      I'm <strong>John Matrix</strong>, a former Delta Force operative with lots of experience, lots of training and huge muscles.
-      <br />After graduating from kindergarten, I've been enrolled in the army for 25 years, where I learned to destroy things in an amazing number of ways.
-      <br />I joined the Delta Force because I thought it was Greek lessons, but I quickly adapted to this unexpected environment and became a key element.
-      <br />I love teamwork, but I can also go in solo depending on the mission requirements.
-      <br />
-      <br />Right now I'm trying to find inner peace after I've read some personal development books. I'm looking for a monk job so if you have any opportunity feel free to 
+      
+      <br>
+      Hi, I'm <strong>Mark</strong>,I make games!
+      I'm currently studying Software and Game Developer in the Netherlands.<br>
+      <br>
+      After my first internship at Extra Nice as a junior developer and level designer I have started releasing my own games, usually written in C# using Unity.<br>
+      <br>
+      Together with a friend I'm currently developing a Visual Novel in Python.<br>
+      <br>
+      I'm also in the process of releasing a sci-fi game on Steam.<br>
+      <br>        
+      I am also knowledgable in Construct and Gamemaker.<br>
+      <br>
+      I'm always open to using the right engine for the job!<br>
+      <br>
       <router-link to="/contact">contact me</router-link>.
-      <br />
-      <br />Besides war, I'm passionate about firearms, martial arts, explosions, push-ups and flowers.
 
       <div style="margin-top:20px; margin-bottom:20px;">
         <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
-        <a class="download-link" href="d/cv-fr.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Télécharger en PDF 🇫🇷</a>
         <div style="clear:both"></div>
       </div>
     </div>
     <div class="photo">
-      <img src="img/resume-photo.png" alt="Photo of John" />
+      <img src="img/resume-photo.png" alt="Photo of Mark" class="center" />
     </div>
 
     <div style="clear:both"></div>
@@ -28,77 +34,72 @@
     <div class="full-content">
       <h2>Work experience</h2>
 
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2018-2019</h4>
+      <h3>Extra Nice</h3>
+      <h4>2020-2021</h4>
 
-      <div>It's classified so I can't speak about it.</div>
+      <div>Developer and level designer on Skirmish.</div>
 
-      <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
-
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2015-2017</h4>
-
-      <div>It's classified so I can't speak about it.</div>
-
-      <div class="tech-stack">Even more Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
-
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2012-2015</h4>
-
-      <div>It's classified so I can't speak about it.</div>
-
-      <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
+      <div class="tech-stack">Unity & C#. </div>
 
       <h2>Skills</h2>
 
       <div class="skill-set">
-        <h3>Lethal</h3>
-        <SkillRate name="Handguns" :rate="5" />
-        <SkillRate name="Rifles" :rate="5" />
-        <SkillRate name="Shotguns" :rate="5" />
-        <SkillRate name="Machineguns" :rate="5" />
-        <SkillRate name="Missile launchers" :rate="5" />
-        <SkillRate name="Knives" :rate="5" />
-        <SkillRate name="Hand to hand combat" :rate="5" />
+        <h3>Software</h3>
+        <SkillRate name="Unity 2022" :rate="4" />
+        <SkillRate name="Visual Studio 2024" :rate="5" />
+        <SkillRate name="Construct 2" :rate="4" />
+        <SkillRate name="Game Maker" :rate="4" />
+        <SkillRate name="Git/Github Desktop" :rate="5" />
+        <SkillRate name="Plastic SCM" :rate="5" />
+        <SkillRate name="Microsoft 356" :rate="5" />
+
       </div>
 
       <div class="skill-set">
-        <h3>Non-lethal</h3>
-        <SkillRate name="Sneaking" :rate="1" />
-        <SkillRate name="Negotiation" :rate="1" />
-        <SkillRate name="Seduction" :rate="1" />
-        <SkillRate name="Sense of humor" :rate="2" />
+        <h3>Languages</h3>
+        <SkillRate name="C#" :rate="5" />
+        <SkillRate name="html/CSS" :rate="4" />
+        <SkillRate name="PHP" :rate="3" />
       </div>
       <div style="clear:both" />
 
       <h2>Education</h2>
 
-      <h3>Kindergarten - 1985</h3>
-      <h4>Kindergarten degree</h4>
-      <div>Specialty in bullying and fighting (58 wins, 58 K-O, 0 losses)</div>
+      <h3>Piter Jelles !mpulse</h3>
+      <h4>Highschool diploma</h4>
+      <div>Certificaat van verworven competenties</div>
 
       <h2>Languages</h2>
 
-      <h3>American</h3>
-      <div>Basic knowledge but I know lots of one-liners</div>
+      <h3>English</h3>
+      <div>Highly proficient.</div>
 
-      <h3>That's it</h3>
-      <div>Who needs another language when you speak American?</div>
+      <h3>Dutch</h3>
+      <div>My native tongue.</div>
+
+      <h3>Frysian</h3>
+      <div>Born and raised.</div>
+
+      <h3>German</h3>
+      <div>I have a fair bit German neurons but it takes me a few days immersed in Germany to activate them.</div>
+
+      <h3>Finnish</h3>
+      <div>Learning via Duolingo and with friends!</div>
 
 
       <h2>Besides...</h2>
       <div>
-        <h3>I ❤️ Violence</h3>
-        <div>I find it really soothing to just shoot at bad guys</div>
+        <h3>I ❤️ Videogames</h3>
+        <div>Fallout New Vegas, Red Dead Redemption 2, GTA 5 and even the eternal Town of Salem.</div>
 
-        <h3>I 🧡 Sports</h3>
-        <div>I used to be thin but then I ingested 10 kilos of steroids and proteins a day while doing 1000 push-ups.</div>
+        <h3>I 🧡 Tabletop Games</h3>
+        <div>Nemesis, Eclipse, Warhammer 40K, Bloodbowl, you name it!</div>
 
-        <h3>I 💛 Politics</h3>
-        <div>I hope I can have a career here someday but I might have temper issues.</div>
+        <h3>I 💛 Card games</h3>
+        <div>MTG, UNO and classics like Durak & Mao</div>
 
-        <h3>I 💚 Flowers</h3>
-        <div>Especially the big ones, with the trunk and leaves.</div>
+        <h3>I 💚 Bouldering</h3>
+        <div>The only sport that I enjoy as much as gaming.</div>
 
       </div>
     </div>
