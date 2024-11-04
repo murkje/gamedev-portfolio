@@ -59,7 +59,7 @@ export default [
     </div>
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
+        <img class="pc-screenshot" src="https://i.ibb.co/Wxv1JtF/image-2024-11-04-002345596.png" alt="image-2024-11-04-002345596" border="0">
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
