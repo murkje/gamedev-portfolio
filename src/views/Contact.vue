@@ -4,7 +4,7 @@
     <h1>Let's get in touch!</h1>
 
     <div style="margin-bottom:40px;">I make games. <br/>Feel free to contact me.</div>
-    <div style="padding-inline-start: 0px;">
+
     <ul>
       <li>
         <i class="fa fa-envelope-o fa-lg fa-fw"></i>
@@ -27,7 +27,7 @@
         <a href="https://steamcommunity.com/id/murkje" target="_blank">My Steam</a>
       </li>
     </ul>
-  </div>
+
   </div>
 </template>
 
