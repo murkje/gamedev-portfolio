@@ -24,7 +24,7 @@
       </li>
       <li>
         <i class="fa fa-steam fa-lg fa-fw"></i>
-        <a href="https://steamcommunity.com/id/me" target="_blank">https://steamcommunity.com/id/murkje/</a>
+        <a href="https://steamcommunity.com/id/murkje" target="_blank">https://steamcommunity.com/id/murkje/</a>
       </li>
     </ul>
 
