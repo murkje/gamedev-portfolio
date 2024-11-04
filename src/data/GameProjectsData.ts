@@ -128,7 +128,7 @@ export default [
         <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@cottonbro">cottonbro</a>.
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://www.youtube.com/watch?v=mdOGx-WwW9Q" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="paragraph">
         Main features :
