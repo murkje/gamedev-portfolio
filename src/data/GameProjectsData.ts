@@ -153,9 +153,10 @@ export default [
         </div>
     </div>
 
-    <div class="paragraph center">
-        <img class="pc-screenshot" src="https://i.ibb.co/N7MYqph/hVUFdm.png" alt="hVUFdm Screenshot" border="0" />
-        <img class="pc-screenshot" src="https://i.ibb.co/6nC8Z9m/Ntholc.png" alt="Ntholc Screenshot" border="0" />
-        <img class="pc-screenshot" src="https://i.ibb.co/ZVpr1Vj/5Xgr3G.png" alt="5Xgr3G Screenshot" border="0" />
+  <div class="paragraph center">
+    <img class="pc-screenshot" src="https://i.ibb.co/N7MYqph/hVUFdm.png" alt="hVUFdm Screenshot" border="0" />
+    <img class="pc-screenshot" src="https://i.ibb.co/6nC8Z9m/Ntholc.png" alt="Ntholc Screenshot" border="0" />
+    <img class="pc-screenshot" src="https://i.ibb.co/ZVpr1Vj/5Xgr3G.png" alt="5Xgr3G Screenshot" border="0" />
+    <img class="pc-screenshot" src="https://i.ibb.co/K5fQmGh/aQf6wA.png" alt="aQf6wA Screenshot" border="0" />
     </div>`, "#e48246")
 ];
