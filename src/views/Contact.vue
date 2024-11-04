@@ -8,23 +8,23 @@
     <ul>
       <li>
         <i class="fa fa-envelope-o fa-lg fa-fw"></i>
-        <a href="mailto:markhoitsma@gmail.com" target="_blank">markhoitsma@gmail.com</a>
+        <a href="mailto:markhoitsma@gmail.com" target="_blank">Email Me</a>
       </li>
       <li>
         <i class="fa fa-linkedin fa-lg fa-fw" style="vertical-align: -5%;"></i>
-        <a href="https://www.linkedin.com/in/mark-h-a8a5a6132/" target="_blank">https://www.linkedin.com/in/mark-h-a8a5a6132/</a>
+        <a href="https://www.linkedin.com/in/mark-h-a8a5a6132/" target="_blank">My Linkedin</a>
       </li>
       <li>
         <i class="fa fa-github fa-lg fa-fw"></i>
-        <a href="https://github.com/murkje" target="_blank">https://github.com/murkje</a>
+        <a href="https://github.com/murkje" target="_blank">My Github</a>
       </li>
       <li>
         <i class="fa fa-gamepad fa-lg fa-fw"></i>
-        <a href="https://murkje.itch.io/" target="_blank">https://murkje.itch.io</a>
+        <a href="https://itch.io/profile/murkje" target="_blank">My Itch.io</a>
       </li>
       <li>
         <i class="fa fa-steam fa-lg fa-fw"></i>
-        <a href="https://steamcommunity.com/id/murkje" target="_blank">https://steamcommunity.com/id/murkje/</a>
+        <a href="https://steamcommunity.com/id/murkje" target="_blank">My Steam</a>
       </li>
     </ul>
 
