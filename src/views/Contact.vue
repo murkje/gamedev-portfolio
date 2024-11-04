@@ -44,7 +44,7 @@ li {
 
 @media only screen and (min-width: 620px){
   ul {
-    padding-inline-start: 40px;
+    padding-inline-start: 0px;
   }
 
   li {
