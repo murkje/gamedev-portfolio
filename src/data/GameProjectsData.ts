@@ -148,8 +148,8 @@ export default [
     </div>
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
+        <img class="pc-screenshot" src="https://img.itch.zone/aW1hZ2UvMzE1NTQ3LzE2NzU4MDIucG5n/347x500/hVUFdm.png/" alt="Skirmish Screenshot" />
+        <img class="pc-screenshot" src="https://img.itch.zone/aW1hZ2UvMzE1NTQ3LzE2NzU4MDAucG5n/347x500/Ntholc.png/" alt="Skirmish Screenshot" />
+        <img class="pc-screenshot" src="https://img.itch.zone/aW1hZ2UvMzE1NTQ3LzE2NzYwNzMucG5n/347x500/5Xgr3G.png/" alt="Skirmish Screenshot" />
     </div>`, "#e48246")
 ];
