@@ -89,7 +89,7 @@ export default [
     </div>
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="534x530" alt="Ecocraft screenshot" />
+        <img class="pc-screenshot" <a href="https://ibb.co/88y1kkG"><img src="https://i.ibb.co/gg0kYYQ/534x530.png" alt="534x530" border="0"></a> />
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
