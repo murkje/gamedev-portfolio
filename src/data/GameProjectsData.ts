@@ -102,29 +102,27 @@ export default [
     
     new ProjectData("project-4", "Let 'em Cook!", "img/projects/project-4-icon.png", `
     <div class="paragraph">
-        Make all the hard candy in <strong>Let 'em cook!</strong> Upcoming game inspired by games like Overcooked and Plate-Up!
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@neo8iam">NEOSiAM 2020</a>.
+        Make all the rock candy in <strong>Let 'em cook!</strong> Upcoming game inspired by games like Overcooked and Plate-Up!
     </div>
     
     <div class="paragraph">
         Main features :
         <ul>
-            <li>Some stuff</li>
-            <li>Some great stuff</li>
-            <li>More awesome stuff</li>
-            <li>And then some</li>
+            <li>Cook up some rock candy,</li>
+            <li>package it up</li>
+            <li>and sell it!</li>
+            <li>Buy upgrades, different dyes and repeat!</li>
         </ul>
     </div>
 
     <div class="paragraph">
         <div class="notice">
-            Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
+            Let 'em Cook is not ready for testing yet, stay tuned!
         </div>
     </div>
 
     <div class="paragraph center">
-        <img src="https://i.ibb.co/LZScBpR/image-2024-11-07-133431943.png" alt="image-2024-11-07-133431943" border="0">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
+        <img src="https://i.ibb.co/LZScBpR/image-2024-11-07-133431943.png" alt="Let'em Cook Screenshot" border="0">
     </div>
     `, "#e80fb7"),
     
