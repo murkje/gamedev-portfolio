@@ -61,7 +61,7 @@ export default [
     
     new ProjectData("project-3", "Ecocraft", "img/projects/project-3-icon.png", `
     <div class="paragraph">
-        <strong>Drawing Overload</strong> Serious game made for the Global Goals jam at school. From our Itch.io page:
+        <strong>Ecocraft</strong> is a Serious game made for the Global Goals jam at school. From our Itch.io page:
         "ecoCraft is a city builder created by 4 students in 10 weeks to raise awareness about climate change."
     </div>
     <div class="paragraph center">
