@@ -15,7 +15,7 @@
         <br>
       </div>
 
-      <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>and took part in <router-link to="/resume">a few things</router-link> as well.</div>
+      <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link> and took part in <router-link to="/resume">a few things</router-link> as well.</div>
 
       <div style="margin-top: 40px;">I'm <strong>currently looking for a place to do my final project.</strong> You can reach me at <a href="mailto:markhoitsma@gmail.com">markhoitsma@gmail.com</a> or <router-link to="/contact">through here</router-link>.</div>
     </div>
