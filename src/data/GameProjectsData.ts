@@ -102,7 +102,7 @@ export default [
     
     new ProjectData("project-4", "Let 'em Cook!", "img/projects/project-4-icon.png", `
     <div class="paragraph">
-        <strong>Eugeneable</strong> Upcoming game inspired by games like Overcooked and Plate-Up!
+        Make all the hard candy in <strong>Let 'em cook!</strong> Upcoming game inspired by games like Overcooked and Plate-Up!
         <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@neo8iam">NEOSiAM 2020</a>.
     </div>
     
@@ -123,7 +123,7 @@ export default [
     </div>
 
     <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
+        <img src="https://i.ibb.co/LZScBpR/image-2024-11-07-133431943.png" alt="image-2024-11-07-133431943" border="0">
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
     </div>
     `, "#e80fb7"),
