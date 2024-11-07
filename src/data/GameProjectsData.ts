@@ -5,15 +5,9 @@ export default [
     `
     <div class="paragraph">
         <strong>Journey To Ardunia</strong> is a thriller game made in Unity.
-        <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>.
     </div>
     <div class="paragraph center">
         <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <div class="paragraph center">
-        <a href="https://play.google.com/store/apps/details?id=some.playstore.thing" target="_blank">
-            <img src="img/projects/play-store-logo.png" alt="Play Store badge" />
-        </a>
     </div>
 
     <div class="paragraph">
@@ -41,20 +35,19 @@ export default [
         <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
     </div>
 
-    <div class="paragraph">
-        Main features :
-        <ul>
-            <li>Some stuff</li>
-            <li>Some great stuff</li>
-            <li>More awesome stuff</li>
-            <li>And then some</li>
-        </ul>
-    </div>
+  <div class="paragraph">
+    Main features :
+    <ul>
+        <li>Engaging storytelling with branching narratives</li>
+        <li>Rich character development with unique personalities</li>
+        <li>Beautifully crafted artwork and character sprites</li>
+        <li>Emotional voice acting to enhance immersion</li>
+    </ul>
+</div>
 
     <div class="paragraph">
         <div class="notice">
-            Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-            Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
+        Testing available via Itch.io early 2025!
         </div>
     </div>
 
@@ -68,21 +61,21 @@ export default [
     
     new ProjectData("project-3", "Ecocraft", "img/projects/project-3-icon.png", `
     <div class="paragraph">
-        <strong>Drawing Overload</strong> Serious game made for the Global Goals jam at school.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@miphotography">Miesha Maiden</a>.
+        <strong>Drawing Overload</strong> Serious game made for the Global Goals jam at school. From our Itch.io page:
+        "ecoCraft is a city builder created by 4 students in 10 weeks to raise awareness about climate change."
     </div>
     <div class="paragraph center">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/4y16TnJzQI8?si=XOkDbe_BWfFSYlAG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
     <div class="paragraph">
-        Main features :
-        <ul>
-            <li>Some stuff</li>
-            <li>Some great stuff</li>
-            <li>More awesome stuff</li>
-            <li>And then some</li>
-        </ul>
+    Main features :
+    <ul> 
+    <li>Expand and enhance your town</li> 
+    <li>Experience dynamic random events that keep the game exciting</li>
+    <li>Embark on quests and engage in immersive dialogue</li>
+    <li>Unlock upgrades to customize your town and tailor your gameplay experience</li>
+    </ul>
     </div>
 
     <div class="paragraph">
