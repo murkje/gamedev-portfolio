@@ -76,8 +76,8 @@ export default [
 
     <div class="paragraph">
         <div class="notice">
-            Playable in the browser (WebGL) on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-            Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
+            Playable in the browser (WebGL) on <a href="https://maartenharms.itch.io/ecocraft" target="_blank">itch.io</a>.
+            For a better experience on Windows an installer is available. 
         </div>
     </div>
 
