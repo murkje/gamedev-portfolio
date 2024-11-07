@@ -71,7 +71,9 @@ export default [
         <strong>Drawing Overload</strong> Serious game made for the Global Goals jam at school.
         <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@miphotography">Miesha Maiden</a>.
     </div>
-<div id="html_embed_5760585" class="html_embed_widget base_widget embed_wrapper"><div data-height="360" data-width="640" class="game_frame game_pending start_maximized" style="width: 640px; height: 360px"><div class="restore_wrapper"><button class="restore_btn button"><svg version="1.1" viewBox="0 0 24 24" aria-hidden="" height="24" stroke-linecap="round" fill="none" stroke-linejoin="round" class="svgicon icon_play" stroke-width="2" stroke="currentColor" role="img" width="24"><circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon></svg> Restore game</button></div><div class="iframe_placeholder" data-iframe="<iframe id=&quot;game_drop&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; scrolling=&quot;no&quot; allowtransparency=&quot;true&quot; webkitallowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; msallowfullscreen=&quot;true&quot; allow=&quot;autoplay; fullscreen *; geolocation; microphone; camera; midi; monetization; xr-spatial-tracking; gamepad; gyroscope; accelerometer; xr; cross-origin-isolated; web-share&quot; src=&quot;https://html-classic.itch.zone/html/1275339/index.html?v=1574336011&quot;></iframe>"><button class="button load_iframe_btn"><svg version="1.1" viewBox="0 0 24 24" aria-hidden="" height="24" stroke-linecap="round" fill="none" stroke-linejoin="round" class="svgicon icon_play" stroke-width="2" stroke="currentColor" role="img" width="24"><circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon></svg> Run game</button></div></div></div>
+    <div class="paragraph center">
+        <iframe class="youtube" src="https://www.youtube.com/embed?v=4y16TnJzQI8" frameborder="0" allowfullscreen></iframe>
+    </div>
 
     <div class="paragraph">
         Main features :
@@ -132,7 +134,7 @@ export default [
         <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@cottonbro">cottonbro</a>.
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/mdOGx-WwW9Q" frameborder="0" allowfullscreen></iframe>
+        <iframe class="youtube" src="https://www.youtube.com/embed?v=mdOGx-WwW9Q" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="paragraph">
         Main features :
