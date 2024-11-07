@@ -35,7 +35,7 @@ export default [
     new ProjectData("project-2", "Nyx:Across Worlds", "img/projects/project-2-icon.png", `
     <div class="paragraph">
         <strong>Nyx:Across Worlds</strong> Upcoming Visual Novel I'm making with a friend in Germany!
-        <br/>Concept art by <a target="_blank" href="https://www.instagram.com/zanrisuy/?locale=nl&hl=af">Zanrisuy</a>.
+        <br/>Concept art by <a target="_blank" href="https://arthurnenasch.wixsite.com/portfolio/">Zanrisuy</a>.
     </div>
     <div class="paragraph center">
         <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
