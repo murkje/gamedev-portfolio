@@ -9,7 +9,7 @@
     <ProjectsList v-bind:projects="projects" />
 
     <div style="margin-top: 20px;">
-      There is more to see on <a target="_blank" href="https://murkje.itch.io">my Itch!</a>
+      There is more to see on <a target="_blank" href="https://itch.io/profile/murkje">my Itch!</a>
     </div>
   </div>
 </template>

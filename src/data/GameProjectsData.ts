@@ -13,16 +13,15 @@ export default [
     <div class="paragraph">
         Main features :
         <ul>
-            <li>Some stuff</li>
-            <li>Some great stuff</li>
-            <li>More awesome stuff</li>
-            <li>And then some</li>
+            <li>Survive the aliens,</li>
+            <li>find and repair the engines,</li>
+            <li>then escape the ship!</li>
         </ul>
     </div>
 
     <div class="paragraph center">
-        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
-        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
+        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Journey to Ardunia Screenshot" />
+        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Journey to Ardunia Screenshot" />
     </div>
     `, "#23bd69", true),
     
@@ -30,9 +29,6 @@ export default [
     <div class="paragraph">
         <strong>Nyx:Across Worlds</strong> Upcoming Visual Novel I'm making with a friend in Germany!
         <br/>Concept art by <a target="_blank" href="https://arthurnenasch.wixsite.com/portfolio/">Zanrisuy</a>.
-    </div>
-    <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
     </div>
 
   <div class="paragraph">
@@ -61,7 +57,7 @@ export default [
     
     new ProjectData("project-3", "Ecocraft", "img/projects/project-3-icon.png", `
     <div class="paragraph">
-        <strong>Ecocraft</strong> is a Serious game made for the Global Goals jam at school. From our Itch.io page:
+        <strong>Ecocraft</strong> is a serious game made for the Global Goals jam at school. From our Itch.io page:
         "ecoCraft is a city builder created by 4 students in 10 weeks to raise awareness about climate change."
     </div>
     <div class="paragraph center">
