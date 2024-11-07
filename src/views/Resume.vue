@@ -18,7 +18,7 @@
       <br>
       I'm always open to using the right engine for the job!<br>
       <br>
-      <router-link to="/contact">contact me</router-link>.
+      <router-link to="/contact">Contact me!</router-link>
 
       <div style="margin-top:20px; margin-bottom:20px;">
         <div style="clear:both"></div>
