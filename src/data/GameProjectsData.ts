@@ -120,7 +120,6 @@ export default [
     new ProjectData("project-5", "Skirmish", "img/projects/project-5-icon.png", `
     <div class="paragraph">
         <strong>Skirmish</strong> One button game made by Extra Nice. I was a junior developer & level designer.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@cottonbro">cottonbro</a>.
     </div>
     <div class="paragraph center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mdOGx-WwW9Q?si=Y07W3YMrczp160uJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
