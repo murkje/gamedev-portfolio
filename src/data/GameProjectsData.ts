@@ -128,17 +128,16 @@ export default [
     <div class="paragraph">
         Main features :
         <ul>
-            <li>Some stuff</li>
-            <li>Some great stuff</li>
-            <li>More awesome stuff</li>
-            <li>And then some</li>
+            <li>Control your character with one button alone!</li>
+            <li>Battle hordes of different monstrosities in Story Mode</li>
+            <li>Battle it out with friends in Co-Op Mode</li>
+            <li>Collect different soldiers to grow your own one-button army!</li>
         </ul>
     </div>
 
     <div class="paragraph">
         <div class="notice">
-            Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-            Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
+            "Coming soon" on Steam: <a href="https://store.steampowered.com/app/869710/Skirmish/" target="_blank">itch.io</a>.
         </div>
     </div>
 

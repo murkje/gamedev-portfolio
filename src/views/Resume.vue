@@ -5,7 +5,7 @@
     <div class="paragraph">
       
       <br>
-      Hi, I'm <strong>Mark</strong>,I make games!
+      Hi, I'm <strong>Mark</strong>, I make games!
       I'm currently studying Software and Game Developer in the Netherlands.<br>
       <br>
       After my first internship at Extra Nice as a junior developer and level designer I have started releasing my own games, usually written in C# using Unity.<br>
@@ -80,7 +80,7 @@
       <div>Born and raised.</div>
 
       <h3>German</h3>
-      <div>I have a fair bit German neurons but it takes me a few days immersed in Germany to activate them.</div>
+      <div>I have a fair bit of German neurons but it takes me a few days immersed in Germany to activate them.</div>
 
       <h3>Finnish</h3>
       <div>Learning via Duolingo and with friends!</div>
