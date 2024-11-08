@@ -119,7 +119,7 @@ export default [
     
     new ProjectData("project-5", "Skirmish", "img/projects/project-5-icon.png", `
     <div class="paragraph">
-        <strong>Cloud Drew Land</strong> One button game made by Extra Nice. I was a junior developer & level designer.
+        <strong>Skirmish</strong> One button game made by Extra Nice. I was a junior developer & level designer.
         <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@cottonbro">cottonbro</a>.
     </div>
     <div class="paragraph center">

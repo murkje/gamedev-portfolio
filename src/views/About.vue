@@ -5,13 +5,13 @@
     <div class="paragraph">
       <div>
         <br>
-        I'm <strong>Mark Hoitsma</strong>,a passionate Game Developer with 6 years of experience.<br>
+        I'm <strong>Mark Hoitsma</strong>, a passionate Game Developer with 6 years of experience.<br>
         <br>
         I am proficient in Unity and C#, level and gameplay design.<br>
         <br>
         Since I'm from a musician's family I am also passionate about music and sound design in my games.<br>
         <br>
-        I've studied in the Netherlands, worked for a indie studio and worked on personal projects.<br>
+        I've studied in the Netherlands, worked for an indie studio and worked on personal projects.<br>
         <br>
       </div>
 
