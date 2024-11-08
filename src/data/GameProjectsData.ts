@@ -113,6 +113,7 @@ export default [
     <div class="paragraph center">
         <img src="https://i.ibb.co/LZScBpR/image-2024-11-07-133431943.png" alt="Let'em Cook Screenshot" border="0">
         <img src="https://i.ibb.co/xSybr0T/image-2024-11-07-142535935.png" alt="image-2024-11-07-142535935" border="0">
+        <img src="https://i.ibb.co/SVcn9yg/image-2024-11-07-171801855.png" alt="image-2024-11-07-171801855" border="0">
     </div>
     `, "#e80fb7"),
     
