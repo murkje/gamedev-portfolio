@@ -6,9 +6,6 @@ export default [
     <div class="paragraph">
         <strong>Journey To Ardunia</strong> is a thriller game made in Unity.
     </div>
-    <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-    </div>
 
     <div class="paragraph">
         Main features :
